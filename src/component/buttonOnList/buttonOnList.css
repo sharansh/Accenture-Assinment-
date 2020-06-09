@@ -1,0 +1,16 @@
+.deletebutton{
+    height: 18px;
+    width: 30px;
+  border:0px;
+  background-color:lightcoral;
+  font-size: 10px;
+  margin: 4px 6px;
+}
+.flagbutton{
+    height: 18px;
+    width: 30px;
+    border:0px;
+    background-color:lightgreen;
+    font-size: 10px;
+    margin: 4px 6px;
+}

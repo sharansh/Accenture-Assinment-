@@ -1,0 +1,52 @@
+[
+  {
+    "id": 0 ,
+    "ul": "Folder",
+    "class":"nav nav-pills flex-column",
+    "role" :"tablist",
+    "sub": [
+      { 
+        "name": "inbox" ,
+        "link": "0-0", 
+        "subtite": null,
+        "class":"nav-item",
+        "list" : "A"
+      },
+      {
+        "name": "spam",
+        "link": "0-1", 
+        "subtite": null,
+        "class":"nav-item",
+        "list" : "b"
+      },
+      {
+        "name": " Draft",
+        "link": "0-2", 
+        "subtite": null,
+        "class":"nav-item",
+        "list" : "c"
+      },
+      {
+        "name": "sent",
+        "link": "0-2", 
+        "subtite": null,
+        "class":"nav-item",
+        "list" : "d"
+      },
+      {
+        "name": "Deleted Items",
+        "link": "0-2", 
+        "subtite": null,
+        "class":"nav-item",
+        "list" : "e"
+      },
+      {
+        "name": "Archives",
+        "link": "0-2", 
+        "subtite": null,
+        "class":"nav-item",
+        "list" : "f"
+      }
+      ]
+  }
+]

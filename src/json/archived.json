@@ -1,0 +1,28 @@
+[{
+    "mId": "guid-10",
+    "unread": true,
+    "fistCatogory": "inbox",
+    "deleted": false,
+    "archived": true,
+    "subject": "Pre Approved Loan",
+    "content": "Congratulations ! <u>Credit card<u> is being shipped to you today!"
+},
+{
+    "mId": "guid-11",
+    "unread": true,
+    "fistCatogory": "inbox",
+    "deleted": true,
+    "archived": true,
+    "subject": "Pre Approved Loan",
+    "content": "Congratulations ! <u>Credit card<u> is being shipped to you today!"
+},
+{
+    "mId": "guid-12",
+    "unread": true,
+    "fistCatogory": "inbox",
+    "deleted": true,
+    "archived": true,
+    "subject": "Pre Approved Loan",
+    "content": "Congratulations ! <u>Credit card<u> is being shipped to you today!"
+}
+]

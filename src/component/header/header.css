@@ -1,0 +1,10 @@
+.header{
+    padding:15px 0px;
+    background-color: black;
+    font-size: 17px;
+    font-weight: 700;
+}
+.header a,.header a:hover,.header a:focus{
+    color:white;
+    text-decoration: none;
+}
